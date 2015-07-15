@@ -1,0 +1,3 @@
+# List names of any repos to exclude from searching
+Jenkins
+
